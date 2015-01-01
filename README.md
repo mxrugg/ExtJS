@@ -1,4 +1,4 @@
-ExtJs
+ExtJS
 =====
 
-Contains a collection of ExtJs projects that I've worked on
+Contains a collection of ExtJS projects that I've worked on
